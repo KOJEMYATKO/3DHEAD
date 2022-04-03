@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/3DHEAD/static/css/main.5a9b1316.chunk.css",
+    "main.js": "/3DHEAD/static/js/main.4cf58e0b.chunk.js",
+    "main.js.map": "/3DHEAD/static/js/main.4cf58e0b.chunk.js.map",
+    "runtime-main.js": "/3DHEAD/static/js/runtime-main.6d714647.js",
+    "runtime-main.js.map": "/3DHEAD/static/js/runtime-main.6d714647.js.map",
+    "static/js/2.9c518763.chunk.js": "/3DHEAD/static/js/2.9c518763.chunk.js",
+    "static/js/2.9c518763.chunk.js.map": "/3DHEAD/static/js/2.9c518763.chunk.js.map",
+    "index.html": "/3DHEAD/index.html",
+    "precache-manifest.9c394d3705b3f5b3fde021b63282f810.js": "/3DHEAD/precache-manifest.9c394d3705b3f5b3fde021b63282f810.js",
+    "service-worker.js": "/3DHEAD/service-worker.js",
+    "static/css/main.5a9b1316.chunk.css.map": "/3DHEAD/static/css/main.5a9b1316.chunk.css.map",
+    "static/js/2.9c518763.chunk.js.LICENSE.txt": "/3DHEAD/static/js/2.9c518763.chunk.js.LICENSE.txt",
+    "static/media/bars-solid.svg": "/3DHEAD/static/media/bars-solid.b3f49afd.svg",
+    "static/media/shopping-cart-solid.svg": "/3DHEAD/static/media/shopping-cart-solid.8bf1af37.svg",
+    "static/media/times-solid.svg": "/3DHEAD/static/media/times-solid.2c5552a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d714647.js",
+    "static/js/2.9c518763.chunk.js",
+    "static/css/main.5a9b1316.chunk.css",
+    "static/js/main.4cf58e0b.chunk.js"
+  ]
+}
